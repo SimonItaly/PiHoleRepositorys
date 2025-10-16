@@ -187,7 +187,6 @@
 (^|\.)equipment$
 (^|\.)esq$
 (^|\.)estate$
-(^|\.)eu.com$
 (^|\.)eus$
 (^|\.)events$
 (^|\.)exchange$
@@ -363,7 +362,6 @@
 (^|\.)market$
 (^|\.)marketing$
 (^|\.)mba$
-(^|\.)me.uk$
 (^|\.)med$
 (^|\.)media$
 (^|\.)medical$
@@ -587,8 +585,6 @@
 (^|\.)travel$
 (^|\.)tube$
 (^|\.)tw$
-(^|\.)uk.com$
-(^|\.)uk.net$
 (^|\.)university$
 (^|\.)uno$
 (^|\.)vacations$
